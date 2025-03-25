@@ -8,8 +8,6 @@ Este espaço foi criado para acompanhar minha jornada de aprendizado em **Python
 ### 📂 Estrutura do Repositório
 - 📁 **Certificados** → Certificados obtidos com a conclusão dos cursos.
 - 📁 **Códigos** → Exemplos práticos, exercícios e projetos.
-- 📁 **Desafios** → Problemas resolvidos e soluções otimizadas.
-- 📁 **Projetos** → Pequenos projetos desenvolvidos durante a trilha.
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Python** 🐍
